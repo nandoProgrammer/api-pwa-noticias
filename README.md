@@ -5,5 +5,5 @@
 
 ## Para executar o projeto em sua máquina basta executar o comando `yarn dev` e acessar a rota `http://localhost:3000/api`
 
-## Veja o projeto online `http://localhost:3000/api`
+## Veja o projeto online `Link`
 
